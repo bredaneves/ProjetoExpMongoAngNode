@@ -44,5 +44,5 @@
       'node_modules/admin-lte/bootstrap/fonts/*.*'
     ])
     .pipe(gulp.dest('public/assets/fonts'))
-  })  
+  })
 })()
